@@ -1,6 +1,6 @@
 # Hi, I'm Mark 👋
 
-I'm a passionate **Senior DevOps Engineer** with cloud automation, Kubernetes, and CI/CD pipelines expertise. I love building scalable, automated infrastructure to streamline operations. When I'm not coding, you'll find me learning new technologies, contributing to open-source, or exploring the world of Python and cloud computing.
+I'm a passionate **Senior DevOps Engineer** with cloud automation, Kubernetes, and CI/CD pipelines expertise. I love building scalable, automated infrastructure to streamline operations. When I'm not coding, you'll find me learning new technologies or exploring the world of Python and cloud computing.
 I may not contribute so much to my personal GitHub profile, because I'm usually busy working in private GitHub repositories that aren't owned by me!
 
 ## 🔧 Technologies & Tools
