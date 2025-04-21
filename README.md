@@ -11,7 +11,13 @@ I may not contribute so much to my personal GitHub profile, because I'm usually 
 - **CI/CD:** Jenkins, GitHub Actions, TeamCity and AWS CodeBuild/AWS CodePipeline.
 
 ## 🧾 Certifications (Current & Expired)
-- 
+- AWS Certified DevOps Engineer - Professional.
+- AWS Certified Generative AI Practitioner.
+- Certified Kubernetes Application Developer (CKAD).
+- Hashicorp Terraform Associate.
+- MTA: Networking Fundamentals.
+- MTA: Security Fundamentals.
+- MTA: Windows Server Administrator Fundamentals. 
 
 ## 🚀 Featured Projects
 
