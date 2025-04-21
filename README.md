@@ -13,7 +13,8 @@ I may not contribute so much to my personal GitHub profile, because I'm usually 
 ## 🚀 Featured Projects
 
 - [DevOpsScripts](https://github.com/MikeTangoSierra/DevOpsScripts) - Useful DevOps automation scripts.
-- [K8sUtils](https://github.com/MikeTangoSierra/K8sUtils) - A set of Kubernetes management tools.
+- [terraform-aws-spend-controller](https://github.com/MikeTangoSierra/terraform-aws-spend-controller) - A Terraform-based wrapper for AWS Nuke, to allow more control around AWS spending in personal/sandbox AWS accounts.
+- [Trading212-Portfolio-Poller](https://github.com/MikeTangoSierra/Trading212-Portfolio-Poller) - My Python-based application for getting the statistics about my Trading212 invesment portfolio.
 
 ## 📈 GitHub Stats
 
